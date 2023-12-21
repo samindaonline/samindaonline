@@ -2,4 +2,4 @@
 - 👀 I’m interested in in exploring the vast realms of technology
 - 🌱 I’m currently learning and honing my skills in React, Laravel, Bootstrap.
 - 💞️ I’m looking to collaborate on projects that push the boundaries of innovation and creativity.
-- 📫 How to reach me by using email: sam.lakshanz@gmail.com
+- 📫 reach me by using email: sam.lakshanz@gmail.com
